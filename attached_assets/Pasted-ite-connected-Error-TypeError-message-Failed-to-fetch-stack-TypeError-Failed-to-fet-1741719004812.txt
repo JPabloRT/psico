@@ -1,0 +1,24 @@
+ite] connected.
+Error: 
+TypeError {}
+message: "Failed to fetch"
+stack: "TypeError: Failed to fetch↵ at window.fetch (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/__replco/static/devtools/eruda/3.2.3/eruda.js:2:218642)↵ at enviarResultadosPorEmail (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/src/App.jsx:206:30)↵ at handleSegundaParteComplete (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/src/App.jsx:178:5)↵ at validarYEnviar (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/src/SecondPart.jsx:167:5)↵ at HTMLUnknownElement.callCallback2 (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/node_modules/.vite/deps/react-dom_client.js?v=43565a9f:3672:22)↵ at Object.invokeGuardedCallbackDev (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/node_modules/.vite/deps/react-dom_client.js?v=43565a9f:3697:24)↵ at invokeGuardedCallback (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/node_modules/.vite/deps/react-dom_client.js?v=43565a9f:3731:39)↵ at invokeGuardedCallbackAndCatchFirstError (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/node_modules/.vite/deps/react-dom_client.js?v=43565a9f:3734:33)↵ at executeDispatch (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/node_modules/.vite/deps/react-dom_client.js?v=43565a9f:7014:11)↵ at processDispatchQueueItemsInOrder (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/node_modules/.vite/deps/react-dom_client.js?v=43565a9f:7034:15)"
+get stack: ƒ ()
+set stack: ƒ ()
+[[Prototype]]: Object
+
+at t.value (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to fetch
+at window.fetch (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/__replco/static/devtools/eruda/3.2.3/eruda.js:2:218642)
+at enviarResultadosPorEmail (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/src/App.jsx:206:30)
+at handleSegundaParteComplete (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/src/App.jsx:178:5)
+at validarYEnviar (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/src/SecondPart.jsx:167:5)
+at HTMLUnknownElement.callCallback2 (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/node_modules/.vite/deps/react-dom_client.js?v=43565a9f:3672:22)
+at Object.invokeGuardedCallbackDev (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/node_modules/.vite/deps/react-dom_client.js?v=43565a9f:3697:24)
+at invokeGuardedCallback (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/node_modules/.vite/deps/react-dom_client.js?v=43565a9f:3731:39)
+at invokeGuardedCallbackAndCatchFirstError (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/node_modules/.vite/deps/react-dom_client.js?v=43565a9f:3734:33)
+at executeDispatch (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/node_modules/.vite/deps/react-dom_client.js?v=43565a9f:7014:11)
+at processDispatchQueueItemsInOrder (https://6a17bee8-7f96-4e5c-b7c1-6f848683710d-00-716sivb2j2g0.worf.replit.dev:3000/node_modules/.vite/deps/react-dom_client.js?v=43565a9f:7034:15)
